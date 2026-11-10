@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RaceRush</string>
+    <string name="app_title">RACERUSH</string>
+    <string name="tagline">Corre. Compite. Gana.</string>
+    <string name="loading">Cargando…</string>
+
+    <!-- Autenticación -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Bienvenido de vuelta, piloto</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="full_name">Nombre de piloto</string>
+    <string name="login_button">INGRESAR</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Únete a la parrilla de salida</string>
+    <string name="register_button">REGISTRARME</string>
+    <string name="error_required">Campo obligatorio</string>
+    <string name="error_email">Correo no válido</string>
+    <string name="error_password">Mínimo 6 caracteres</string>
+    <string name="error_password_match">Las contraseñas no coinciden</string>
+
+    <!-- Menú principal -->
+    <string name="menu_play">JUGAR</string>
+    <string name="menu_championship">CAMPEONATO</string>
+    <string name="menu_garage">GARAJE</string>
+    <string name="menu_settings">AJUSTES</string>
+    <string name="notifications">Notificaciones</string>
+
+    <!-- Garaje -->
+    <string name="garage_title">GARAJE</string>
+    <string name="stat_speed">VELOCIDAD</string>
+    <string name="stat_grip">AGARRE</string>
+    <string name="stat_boost">IMPULSO</string>
+    <string name="select_car">SELECCIONAR AUTO</string>
+    <string name="save_car">GUARDAR AUTO</string>
+    <string name="previous_car">Auto anterior</string>
+    <string name="next_car">Auto siguiente</string>
+    <string name="car_saved">%1$s guardado como auto principal</string>
+    <string name="back">Volver</string>
+
+    <!-- Pista -->
+    <string name="track_title">SELECCIONAR PISTA</string>
+    <string name="track_info">Vueltas: %1$d   Mejor: %2$s</string>
+    <string name="start_race">INICIAR CARRERA</string>
+
+    <!-- Carrera -->
+    <string name="hud_lap">VUELTA %1$d/%2$d</string>
+    <string name="hud_position">POS %1$d/%2$d</string>
+    <string name="hud_speed">%1$d km/h</string>
+    <string name="steer_left">Girar a la izquierda</string>
+    <string name="steer_right">Girar a la derecha</string>
+    <string name="pause">Abandonar carrera</string>
+    <string name="countdown_go">¡YA!</string>
+
+    <!-- Resultados -->
+    <string name="race_completed">¡Carrera Completada!</string>
+    <string name="result_summary">Terminaste %1$d° en el %2$s</string>
+    <string name="result_position">POSICIÓN</string>
+    <string name="result_time">TIEMPO</string>
+    <string name="result_points">PUNTOS</string>
+    <string name="result_points_value">+%1$d</string>
+    <string name="view_championship">VER CAMPEONATO</string>
+    <string name="race_again">CORRER DE NUEVO</string>
+    <string name="back_to_menu">VOLVER AL MENÚ</string>
+
+    <!-- Campeonato -->
+    <string name="championship_title">CAMPEONATO</string>
+    <string name="championship_season">Temporada 2026 · Copa Relámpago</string>
+    <string name="points_value">%1$d pts</string>
+    <string name="join_championship">UNIRSE A UN CAMPEONATO</string>
+    <string name="join_title">INSCRIPCIÓN</string>
+    <string name="join_subtitle">Únete a una carrera o campeonato</string>
+    <string name="alias">Alias de piloto</string>
+    <string name="choose_championship">Campeonato</string>
+    <string name="category">Categoría</string>
+    <string name="category_amateur">Amateur</string>
+    <string name="category_pro">Profesional</string>
+    <string name="accept_rules">Acepto el reglamento del campeonato</string>
+    <string name="join_button">CONFIRMAR INSCRIPCIÓN</string>
+    <string name="join_success">¡Inscripción registrada!</string>
+    <string name="error_rules">Debes aceptar el reglamento</string>
+
+    <!-- Notificaciones -->
+    <string name="notifications_title">NOTIFICACIONES</string>
+    <string name="notifications_empty">No tienes notificaciones</string>
+
+    <!-- Ajustes -->
+    <string name="settings_title">AJUSTES</string>
+    <string name="settings_audio">Audio</string>
+    <string name="settings_sound">Efectos de sonido</string>
+    <string name="settings_music">Música</string>
+    <string name="settings_vibration">Vibración</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_language_value">Español (según el dispositivo)</string>
+    <string name="settings_account">Cuenta</string>
+    <string name="settings_version">Versión %1$s</string>
+    <string name="logout">CERRAR SESIÓN</string>
+</resources>
