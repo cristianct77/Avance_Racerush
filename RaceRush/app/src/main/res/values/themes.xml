@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RaceRush" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/rr_red</item>
+        <item name="colorOnPrimary">@color/rr_white</item>
+        <item name="colorSecondary">@color/rr_yellow</item>
+        <item name="colorOnSecondary">@color/rr_dark</item>
+        <item name="android:colorBackground">@color/rr_background</item>
+        <item name="android:statusBarColor">@color/rr_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/rr_dark</item>
+    </style>
+
+    <!-- Botón principal rojo (JUGAR, SELECCIONAR AUTO) -->
+    <style name="Widget.RaceRush.Button.Primary" parent="Widget.Material3.Button">
+        <item name="android:layout_height">56dp</item>
+        <item name="backgroundTint">@color/rr_red</item>
+        <item name="android:textColor">@color/rr_white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <!-- Botón secundario gris (CAMPEONATO, GARAJE, AJUSTES) -->
+    <style name="Widget.RaceRush.Button.Secondary" parent="Widget.Material3.Button">
+        <item name="android:layout_height">56dp</item>
+        <item name="backgroundTint">@color/rr_gray_light</item>
+        <item name="android:textColor">@color/rr_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <!-- Botón oscuro con texto amarillo (INICIAR CARRERA) -->
+    <style name="Widget.RaceRush.Button.Dark" parent="Widget.Material3.Button">
+        <item name="android:layout_height">56dp</item>
+        <item name="backgroundTint">@color/rr_dark</item>
+        <item name="android:textColor">@color/rr_yellow</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="TextAppearance.RaceRush.ScreenTitle" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textColor">@color/rr_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+
+    <style name="TextAppearance.RaceRush.StatLabel" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textColor">@color/rr_gray_text</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+</resources>
