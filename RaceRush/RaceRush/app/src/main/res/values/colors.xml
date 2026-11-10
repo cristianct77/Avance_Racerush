@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rr_red">#C8102E</color>
+    <color name="rr_red_dark">#9E0B22</color>
+    <color name="rr_yellow">#FFC20E</color>
+    <color name="rr_dark">#15151B</color>
+    <color name="rr_dark_card">#2A2A33</color>
+    <color name="rr_asphalt">#3B3B42</color>
+    <color name="rr_gray_light">#ECECEF</color>
+    <color name="rr_gray_bar">#DADAE0</color>
+    <color name="rr_gray_text">#7A7A85</color>
+    <color name="rr_white">#FFFFFF</color>
+    <color name="rr_black">#000000</color>
+    <color name="rr_blue">#1E5BD8</color>
+    <color name="rr_green">#1C9A55</color>
+    <color name="rr_background">#F5F5F7</color>
+</resources>
